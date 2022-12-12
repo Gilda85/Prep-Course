@@ -48,7 +48,7 @@ En este ejercicio crearemos un nuevo repositorio en Github y a partir de la line
 
 Iniciaremos creando una carpeta desde la consola llamada: "CarpetaHenry"
 
-Para ello primero iremos a la carpeta de nivel superior, escribe en la consola:
+Para ello primero iremos a la carpeta de nivel superior, escribe 
 
 ```bash
   cd ~
