@@ -1,0 +1,7 @@
+Variables: Una variable es como una cajita para guardar cosas que después voy a usar para hacer una cosa u otra. No es lo mismo que guarde un Strings que es una palabra que un Numero que yo lo puedo sumar, además de guardar el valor también el tipo de dato.
+Strings: Las Strings son palabras, siempre empiezan y terminan con comillas, se pueden usar números como letras.
+Funciones (argumentos, return): Una función agrupa códigos, los guarda para luego poder ejecutarlos.
+Los ARGUMENTOS son valores primitivos u objetos pasados como entrada a una función. Los Argumentos van separados de comas.
+RETURN se utiliza para retornar algo, las funciones solo pueden retornar una vez.
+Declaraciones if: Es Una condición de declaración, si es verdadero se ejecutara el código entre paréntesis y si es falso se ejecutara otro.
+Valores booleanos (true, false): Los valores booleanos son palabras reservadas por la consola para decir si algo es "verdadero" o "falso".
