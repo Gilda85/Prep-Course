@@ -1,0 +1,1 @@
+* Funciones Callback: son funciones que pueden pasar como argumentos a otras funciones, retornarlas como resultado de una función y guardarlas en variables u otras estructuras de datos.

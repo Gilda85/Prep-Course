@@ -1,0 +1,2 @@
+* `prototype`: cada clase tiene una propiedad prototype que luego podemos establecer en métodos.Por ejemplo si yo tengo una propiedad que no esta en el objeto, JavaScript va a buscar esa propiedad en el Proto.
+* _Constructors_ (de Clases): el método contructor es un método especial de una clase para crear e inicializar una instancia de objeto de esa clase. Por ejemplo seria pensado en una fabrica de objetos donde yo quiero que salgan todos iguales.

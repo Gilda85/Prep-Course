@@ -1,0 +1,28 @@
+body {
+    background-image: url(https://img.freepik.com/foto-gratis/cubiertos-oro-textil-placa-sobre-fondo-oscuro-vista-superior_1220-6580.jpg?w=900&t=st=1673876408~exp=1673877008~hmac=48a8986165f2dafebc1cc1d15e105fe6a4585ebb70da2af44ec7884b3b0399be);
+    background-repeat: no-repeat;
+    background-size: cover;
+   }
+h1 {color: rgb(161, 143, 78);
+}
+h3 {color:rgb(161, 143, 78);
+}
+h4 {color:rgb(161, 143, 78);
+
+}
+img {
+ width: 400px;
+}
+#thirdDiv {
+height: 500px;
+width: 600px; 
+background-color: rgb(160, 134, 103);
+padding: 50px;
+border: 8px solid rgb(161, 143, 78);
+}
+#spanId { 
+font-size: 18px;
+margin: 50px;
+background-color:rgb(161, 143, 78)
+}
+

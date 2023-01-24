@@ -1,0 +1,3 @@
+Array: Son una conexión de elementos a la cual podemos acceder en forma de listas ordenadas.Para acceder a esto invocamos el array pidiendole lo que hay en esa posición en mi función.
+Pueden aceptar todos los tipos, inclusive pueden tener un elemento que sea un arreglo.
+Un arreglo se define usando los "bracket" []corchetes.

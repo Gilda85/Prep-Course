@@ -1,0 +1,2 @@
+FOR: el bucle For sirve para no repetir, para esto tiene 3 partes: la primera es la que va a contar la cantidad de repeticiones que va haciendo, el segundo es la condicion de frenado y la última como queremos que vaya incrementando ese valor.
+&&, ||, !: los operadores lógicos nos sirven para anidar funciones, nos van a devolver un valor booleano, el operador && siginica "y", el operador || significa "o" y el operador ! significa "no".
